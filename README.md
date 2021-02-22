@@ -1,7 +1,6 @@
 # BT Real Estate
 🏠 Real Estate Website built using Django
 
-#
 ## Technologies used:
 
 ### Frontend:
@@ -15,7 +14,7 @@
 ### Database:
 - Postgres
 
-#
+## Screenshots
 - Home
 ![Home](btre-md-img/btre-home.png)
 
