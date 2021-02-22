@@ -1,31 +1,42 @@
-# BT_real_estate
+# BT Real Estate
 🏠 Real Estate Website built using Django
 
-The requirements listed are the ones I used at the time. Update the dependencies to prevent vulnerabilities
 #
-## Some of the Technologies used are:
-* Python
-* Django
-* HTML/CSS/JS
-* Bootstrap
+## Technologies used:
+
+### Frontend:
+- HTML
+- Bootstrap4
+- JavaScript
+
+### Backend:
+- Django
+
+### Database:
+- Postgres
 
 #
-Home
+- Home
 ![Home](btre-md-img/btre-home.png)
 
-Listings
+- Listings
 ![Listings](btre-md-img/btre-listings.png)
 
-Listing
+- Listing
 ![Listing](btre-md-img/btre-listing.png)
 
-Register
+- Register
 ![Register](btre-md-img/btre-register.png)
 
-Login
+- Login
 ![Login](btre-md-img/btre-login.png)
 
-About
+- About
 ![About](btre-md-img/btre-about.png)
 
-## obelouch
+## Owner
+- **Oussama Belouche** 1337
+
+#
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
